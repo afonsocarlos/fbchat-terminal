@@ -1,0 +1,11 @@
+*.py[co]
+
+# packages
+__pycache__
+fbchat-master
+Lib
+Scripts
+
+# python venv
+pip-selfcheck.json
+pyvenv.cfg
