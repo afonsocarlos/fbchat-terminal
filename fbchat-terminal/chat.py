@@ -117,6 +117,9 @@ def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def main():
+    # disguising application
+    os.system('title Terminal')  # check if it works in Linux
+
     username = input("username: ")
     password = getpass.getpass("password: ")
 
