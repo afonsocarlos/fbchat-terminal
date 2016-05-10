@@ -1,2 +1,1 @@
-# fbchat-terminal
-Facebook Chat Terminal
+# Facebook Chat Terminal
